@@ -1,4 +1,4 @@
-# Claude TUI
+<img width="1190" height="447" alt="image" src="https://github.com/user-attachments/assets/508d3e78-c738-43ee-93ee-9b3cebb66fd7" /># Claude TUI
 
 Удобное графическое приложение для работы с Claude AI через голосовой ввод на русском языке.
 
@@ -13,6 +13,7 @@
 ## Как пользоваться
 
 ### Запуск
+<img width="1190" height="447" alt="image" src="https://github.com/user-attachments/assets/2b6d4228-5340-4721-b725-47704cb52c0f" />
 
 ```bash
 python main.py
