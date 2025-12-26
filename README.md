@@ -117,3 +117,5 @@ claude-tui/
 ## Лицензия
 
 MIT
+<img width="1200" height="537" alt="image" src="https://github.com/user-attachments/assets/d95ed2db-0e4f-49b1-abc7-6b341e7e77e3" />
+
