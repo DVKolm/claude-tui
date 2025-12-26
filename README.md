@@ -13,7 +13,6 @@
 ## Как пользоваться
 
 ### Запуск
-<img width="1190" height="447" alt="image" src="https://github.com/user-attachments/assets/2b6d4228-5340-4721-b725-47704cb52c0f" />
 
 ```bash
 python main.py
